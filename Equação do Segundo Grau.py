@@ -8,3 +8,5 @@ x2 = -b - (b * b - 4 * a * c) / 2 * a
 
 print(x1)
 print(x2)
+
+# rodrigo has were
